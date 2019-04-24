@@ -1,5 +1,7 @@
 <template>
-    <div>我是hello1</div>
+    <div>我是hello1
+        <span>蛋蛋</span>
+    </div>
 </template>
 
 
