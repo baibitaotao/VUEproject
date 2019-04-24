@@ -1,7 +1,8 @@
 <template>
     <div>我是hello1
         <span>蛋蛋</span>
-        <span>我是牛牛</span>
+        <a href="#">我是五号</a>
+        <div>好样的</div>
     </div>
 </template>
 
